@@ -14,7 +14,7 @@
           "email": "johnsmith@gmail.com"
         }
       ],
-      "maximumAttendees": 10,
+      "capacity": 10,
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
       "date": "January 28, 2022",
@@ -36,7 +36,7 @@
           "email": "johnsmith@gmail.com"
         }
       ],
-      "maximumAttendees": 10,
+      "capacity": 12,
       "description": "Join us as we tend to the community edible plants.",
       "location": "Flora City",
       "date": "March 14, 2022",
@@ -56,7 +56,7 @@
           "email": "johnsmith@gmail.com"
         }
       ],
-      "maximumAttendees": 10,
+      "capacity": 14,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -80,7 +80,7 @@
           "email": "johnsmith@gmail.com"
         }
       ],
-      "maximumAttendees": 10,
+      "capacity": 16,
       "description": "Find your new canine friend at this event.",
       "location": "Woof Town",
       "date": "August 28, 2022",
@@ -102,7 +102,7 @@
           "email": "johnsmith@gmail.com"
         }
       ],
-      "maximumAttendees": 10,
+      "capacity": 18,
       "description": "Bring your canned food to donate to those in need.",
       "location": "Tin City",
       "date": "September 14, 2022",
@@ -124,7 +124,7 @@
           "email": "johnsmith@gmail.com"
         }
       ],
-      "maximumAttendees": 10,
+      "capacity": 20,
       "description": "Help pick up trash along the highway.",
       "location": "Highway 50",
       "date": "July 22, 2022",
